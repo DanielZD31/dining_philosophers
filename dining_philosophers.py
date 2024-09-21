@@ -1,8 +1,3 @@
-'''
-Discente: Daniel
-Docente: Heyde
-'''
-
 import threading
 import time 
 import random 
